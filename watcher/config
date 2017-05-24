@@ -1,0 +1,3 @@
+W: /usr/bin/python3 test.py
+R: /usr/bin/python3 fail.py
+W: /bin/sleep 1
